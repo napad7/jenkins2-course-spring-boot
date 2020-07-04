@@ -12,7 +12,7 @@ that runs spring scripts.
 Our primary goals are:
 
 * Provide a radically faster and widely accessible getting started experience for all
-Spring development
+Spring development. added comment here
 * Be opinionated out of the box, but get out of the way quickly as requirements start to
 diverge from the defaults
 * Provide a range of non-functional features that are common to large classes of projects
